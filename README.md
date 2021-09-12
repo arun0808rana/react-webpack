@@ -1,4 +1,4 @@
 # react-webpack
 * yarn run serve
- or
+or
 * yarn run build
