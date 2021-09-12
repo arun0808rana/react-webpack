@@ -1,4 +1,3 @@
 # react-webpack
-yarn run serve
-
-yarn run build
+1. yarn run serve
+2. yarn run build
