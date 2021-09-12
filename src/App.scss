@@ -1,0 +1,7 @@
+.mf{
+    color: teal;
+}
+
+h1{
+    @extend .mf;
+}
